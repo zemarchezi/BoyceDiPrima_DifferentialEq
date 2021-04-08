@@ -8,6 +8,8 @@ Cap1-2.ipynb
 *.pdf
 *.PDF
 
+.gitignore
+
 # C extensions
 *.so
 
